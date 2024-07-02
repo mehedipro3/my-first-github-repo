@@ -1,0 +1,15 @@
+p{
+  color: rgb(238, 216, 10);
+  background-color: brown;
+  padding: 10px;
+  margin: 10px;
+}
+li{
+  color: red;
+}
+h2{
+  text-align: center;
+  text-transform: capitalize;
+  color: darkblue;
+  text-decoration: underline;
+}
